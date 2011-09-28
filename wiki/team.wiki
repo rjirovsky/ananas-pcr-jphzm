@@ -1,0 +1,7 @@
+= Tým pracující na projektu =
+
+  * Radek Jirovský <a href="rjirovsky@gmail.com"/>
+  * Hoa Quoc Tran (Honza) traninho90@gmail.com
+  * Martin Váňa martin2201@gmail.com
+  * Mirón Michalko 359201@mail.muni.cz
+  * Dominik Mačejovský dominik.macejovsky@gmail.com
