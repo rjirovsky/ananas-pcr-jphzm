@@ -1,3 +1,4 @@
+#summary Informace o týmu pracujícím na projektu
 #labels Featured
 = Tým pracující na projektu =
 
