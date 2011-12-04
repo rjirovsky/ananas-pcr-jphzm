@@ -1,3 +1,3 @@
 == Kontextový diagram aplikace ==
 
-<img src="" alt= >
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/context_diagram.png" alt="Kontextový diagram">
