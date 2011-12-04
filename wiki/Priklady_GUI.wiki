@@ -14,3 +14,7 @@ Informační systém PČR JPHZM bude přístupný skrze webový prohlížeč for
 == Výsledky ==
 
 <img src="http://ananas-pcr-jphzm.googlecode.com/files/gui_vysledky.png" alt="výsledky">
+
+== Profil jezdce ==
+
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/gui_profil.png" alt="profil">
