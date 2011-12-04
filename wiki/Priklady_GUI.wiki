@@ -1,0 +1,15 @@
+#4 obrazovky z aplikace
+
+= Příklady grafického rozhraní =
+
+Informační systém PČR JPHZM bude přístupný skrze webový prohlížeč formou webové aplikace.
+
+
+== Kalendář závodních dnů ==
+
+<img src=gui_registrace.png ></img>
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
