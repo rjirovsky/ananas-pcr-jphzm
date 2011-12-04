@@ -1,5 +1,3 @@
-#4 obrazovky z aplikace
-
 = Příklady grafického rozhraní =
 
 Informační systém PČR JPHZM bude přístupný skrze webový prohlížeč formou webové aplikace.
@@ -7,9 +5,12 @@ Informační systém PČR JPHZM bude přístupný skrze webový prohlížeč for
 
 == Kalendář závodních dnů ==
 
-<img src=gui_registrace.png ></img>
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/gui_calendar.png" alt="kalendář">
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Registrace nového závodníka ==
+
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/myImage.png" alt="registrace">
+
+== Výsledky ==
+
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/gui_vysledky.png" alt="výsledky">
