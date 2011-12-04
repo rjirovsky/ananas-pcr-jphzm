@@ -1,3 +1,15 @@
 == Kontextový diagram aplikace ==
 
 <img src="http://ananas-pcr-jphzm.googlecode.com/files/context_diagram.png" alt="Kontextový diagram">
+
+== DFD 1. úrovně ==
+
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/dfd_l1_diagram.png" alt="DFD 1 diagram">
+
+== DFD 1.1 - Evidence závodníků a motocyklů ==
+
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/dfd_l11_diagram.png" alt="DFD 1.1 diagram">
+
+== DFD 1.2 - Evidence závodů ==
+
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/dfd_l12_diagram.png" alt="DFD 1.2 diagram">
