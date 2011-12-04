@@ -1,2 +1,3 @@
 == ERD diagram ==
 
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/erd_diagram.png" alt="ERD diagram">
