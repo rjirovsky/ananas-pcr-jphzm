@@ -1,7 +1,7 @@
 == Diagram případů užití ==
 
-<img src="http://ananas-pcr-jphzm.googlecode.com/files/usecase_diagram.png" alt="Use case diagram">
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/usecase_diagram.jpg" alt="Use case diagram">
 
 == Analytický diagram tříd (koncept) ==
 
-<img src="http://ananas-pcr-jphzm.googlecode.com/files/class_diagram.png" alt="Class diagram">
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/class_diagram.jpg" alt="Class diagram">
