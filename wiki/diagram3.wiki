@@ -4,4 +4,4 @@
 
 == Analytický diagram tříd (koncept) ==
 
-<img src="http://ananas-pcr-jphzm.googlecode.com/files/class_diagram.jpg" alt="Class diagram">
+<img src="http://ananas-pcr-jphzm.googlecode.com/files/class_diagram2.jpg" alt="Class diagram">
