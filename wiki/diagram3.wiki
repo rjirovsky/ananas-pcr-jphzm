@@ -2,6 +2,6 @@
 
 <img src="http://ananas-pcr-jphzm.googlecode.com/files/usecase_diagram.jpg" alt="Use case diagram">
 
-== Analytický diagram tříd (koncept) ==
+== Analytický diagram tříd ==
 
 <img src="http://ananas-pcr-jphzm.googlecode.com/files/class_diagram2.jpg" alt="Class diagram">
